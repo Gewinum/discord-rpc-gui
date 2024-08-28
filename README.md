@@ -1,2 +1,2 @@
 # discord-rpc-gui
-a discord rpc gui written on Wails
+This is my first project with Wails. I made a program 
